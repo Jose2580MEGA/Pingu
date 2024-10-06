@@ -2,7 +2,6 @@ body {
     display: flex;
     background-color: darkblue;
     justify-content: center;
-    flex-direction: row;
 }
 
 .cuerpoP1 {
